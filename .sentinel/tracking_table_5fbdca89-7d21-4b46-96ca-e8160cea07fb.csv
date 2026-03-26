@@ -1,2 +1,4 @@
 FileName, CommitSha
+AutomationRule/ChangeOwnerPersistenceIncidents.json,58a79aef84052aba163a1b66560215a65f7ecf15
+AnalyticsRule/MalformedUserAgents.json,43d6d7a108cd60f835b253bc53e6c10c5afa0887
 
